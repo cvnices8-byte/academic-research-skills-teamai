@@ -1,8 +1,9 @@
 team: academic-research-skills-teamai
 mode: self
-description: TeamAI single-repo (knowledge on main, reports on teamai-reports)
+description: TeamAI collection of academic research and writing skills
 repo: https://github.com/cvnices8-byte/academic-research-skills-teamai.git
 provider: github
+usageReport: false
 sharing:
   rules:
     enforced: []
