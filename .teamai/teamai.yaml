@@ -1,0 +1,14 @@
+team: academic-research-skills-teamai
+mode: self
+description: TeamAI single-repo (knowledge on main, reports on teamai-reports)
+repo: https://github.com/cvnices8-byte/academic-research-skills-teamai.git
+provider: github
+sharing:
+  rules:
+    enforced: []
+  docs:
+    localDir: ./.teamai/docs
+  env:
+    injectShellProfile: true
+  gitExclude:
+    enabled: true
