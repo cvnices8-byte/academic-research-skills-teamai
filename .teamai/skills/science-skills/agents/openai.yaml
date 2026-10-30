@@ -1,0 +1,3 @@
+interface:
+  display_name: "science-skills"
+  short_description: "Google DeepMind scientific workflows in one suite"
