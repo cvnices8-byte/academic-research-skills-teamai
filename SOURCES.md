@@ -11,6 +11,7 @@
 | `computer-science-conference-suite/` | [Awesome-Journal-Skills / Computer-Science-Conference-Skills](https://github.com/brycewang-stanford/Awesome-Journal-Skills/tree/main/Computer-Science-Conference-Skills) | 上游仓库 MIT；`source/LICENSE`。本地保留 156 个会议模块与 `resources/`，顶层路由路径已适配。 |
 | `chinese-socialscience-journal-suite/` | [Awesome-Journal-Skills / Chinese-SocialScience-Journal-Skills](https://github.com/brycewang-stanford/Awesome-Journal-Skills/tree/main/Chinese-SocialScience-Journal-Skills) | 上游仓库 MIT；`source/LICENSE`。本地保留 103 个期刊模块与 `resources/`，顶层路由路径已适配。 |
 | `humanizer/` | [blader/humanizer](https://github.com/blader/humanizer) | MIT；包内 `LICENSE`。 |
+| `lieflat-less-ai-tone/` | [larashero3-dotcom/lieflat-less-ai-tone](https://github.com/larashero3-dotcom/lieflat-less-ai-tone) | CC BY-NC 4.0；包内 `LICENSE`，上游快照 `fe13f1a`。保留原始检测脚本、判读规则、研究说明与示例；未修改上游内容。商业使用须另向原作者取得授权。 |
 | `mineru/` | [opendatalab/MinerU 的 mineru Skill](https://github.com/opendatalab/MinerU/tree/master/skills/mineru) | 包内 `LICENSE.md` 为 MinerU Open Source License；仅收录 Skill，不含解析程序或模型。 |
 | `ai-literature-manager/` | 本机现有的独立本地 Skill | 未发现可核实的公开上游许可；不要把它归为其他套件或假称已按 MIT 开源。分享版只将操作示例中的个人绝对路径替换为通用占位路径，不含文献数据库与 PDF。 |
 

@@ -12,6 +12,7 @@
 | `chinese-socialscience-journal-suite` | 中文经济、管理、社科期刊选刊及稿件适配评估 |
 | `ai-literature-manager` | 本地 PDF 论文库、证据定位、阅读记录与跨篇比较 |
 | `humanizer` | 去除机械化 AI 文风，同时保留原意 |
+| `lieflat-less-ai-tone` | 中文成稿的 AI 文风检测、改写建议与复测 |
 | `mineru` | PDF、图片和 Office 文档解析/OCR；需另装 MinerU 工具 |
 
 ## 目录与安装
@@ -33,6 +34,6 @@ teamai doctor
 
 ## 来源、许可与边界
 
-详见 [SOURCES.md](SOURCES.md)。本仓库不以单一许可证重新许可第三方内容；每个套件保留其原有许可及署名要求。`academic-research-suite` 和 `supervisor-skills` 包含非商业许可内容，请先核对用途。论文库数据、原始 PDF、个人笔记和凭据**未纳入**本仓库。
+详见 [SOURCES.md](SOURCES.md)。本仓库不以单一许可证重新许可第三方内容；每个套件保留其原有许可及署名要求。`academic-research-suite`、`supervisor-skills` 和 `lieflat-less-ai-tone` 包含非商业许可内容，请先核对用途。论文库数据、原始 PDF、个人笔记和凭据**未纳入**本仓库。
 
 期刊/会议规则、截止时间和数据库信息可能变化；生成投稿建议前应查当年官方来源。公开仓库中的技能指令与脚本应像其他第三方代码一样先审阅再执行。
